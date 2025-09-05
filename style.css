@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crypto Investment Plan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Crypto Investment Plan</h1>
+    <p>Secure, Transparent & Reliable Returns</p>
+  </header>
+
+  <section class="plans">
+    <h2>Our Investment Plans</h2>
+    <table>
+      <tr>
+        <th>Plan</th>
+        <th>Duration</th>
+        <th>Monthly Return</th>
+        <th>Minimum Investment</th>
+        <th>Principal Return</th>
+      </tr>
+      <tr>
+        <td>Plan A</td>
+        <td>12 Months</td>
+        <td>5% every month</td>
+        <td>₹1,00,000</td>
+        <td>After 12 months</td>
+      </tr>
+      <tr>
+        <td>Plan B</td>
+        <td>24 Months</td>
+        <td>5% every month</td>
+        <td>₹1,00,000</td>
+        <td>After 24 months</td>
+      </tr>
+      <tr>
+        <td>Plan C</td>
+        <td>36 Months</td>
+        <td>5% every month</td>
+        <td>₹1,00,000</td>
+        <td>After 36 months</td>
+      </tr>
+    </table>
+  </section>
+
+  <footer>
+    <p>© 2025 Crypto Investment Company. All rights reserved.</p>
+  </footer>
+</body>
+  </html>
